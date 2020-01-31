@@ -3,13 +3,13 @@ Practice Exercises for Udemy R Programming Course by Kirill Eremenko
 
 ### World Trends
     EDA R file
-      Data
+      *Data
         World Trends CSV
         Life Expectancy Vectors
-      Charts
+      *Charts
 ### Movie Data
     Movie Data EDA R file
-      Data
+      *Data
         Movie Data CSV
-      Charts
+      *Charts
         
